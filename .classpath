@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="con" path="org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="src/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-lang3-3.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="src/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="src/lib/org.apache.commons.beanutils.jar"/>
+	<classpathentry kind="lib" path="src/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="src/lib/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="src/lib/poi-examples-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="src/lib/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="src/lib/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="src/lib/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="src/lib/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="src/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="src/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

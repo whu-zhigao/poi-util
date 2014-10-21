@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.547" errors="0" skipped="0" tests="7" name="org.konghao.poi.test.TestPoi">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\Java\jdk1.6.0_16\jre\bin"/>
+    <property name="java.vm.version" value="14.2-b01"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 3"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\kh\j2ee\eclipse\poi_2012\poi-util"/>
+    <property name="java.runtime.version" value="1.6.0_16-b01"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="D:\Java\jdk1.6.0_16\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows XP"/>
+    <property name="classworlds.conf" value="D:\kh\j2ee\eclipse\poi_2012\.metadata\.plugins\org.maven.ide.eclipse\launches\m2conf8826353976040222972.tmp"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\Java\jdk1.6.0_16\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/Java/jdk1.6.0_16/bin/../jre/bin/client;D:/Java/jdk1.6.0_16/bin/../jre/bin;D:/Java/jdk1.6.0_16/bin/../jre/lib/i386;C:\Program Files\AMD APP\bin\x86;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;D:\svn\Subversion\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Mythware\e-Learning Class\;D:\Java\nexus-2.0.3-bundle\nexus-2.0.3\bin;D:\apache-maven-3.0.4-bin\apache-maven-3.0.4\bin;D:\Java\jdk1.6.0_16\bin;D:\apache-ant-1.8.3-bin\apache-ant-1.8.3\bin;D:\svn\Subversion\bin;D:\tools\javaTools\webservice\apache-cxf-2.5.2\apache-cxf-2.5.2\bin;D:\mysql5\bin;D:\Tomcat6.0\bin;;D:\tools\java\springsource-tool-suite-2.7.1.RELEASE-e3.7-win32\springsource\sts-2.7.1.RELEASE;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="5.1"/>
+    <property name="user.home" value="d:\我的文档"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="user.name" value="Administrator"/>
+    <property name="java.class.path" value="D:\apache-maven-3.0.4-bin\apache-maven-3.0.4\boot\plexus-classworlds-2.4.jar"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="D:\Java\jdk1.6.0_16\jre"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.6.0_16"/>
+    <property name="java.ext.dirs" value="D:\Java\jdk1.6.0_16\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\Java\jdk1.6.0_16\jre\lib\endorsed\jaxws-api.jar;D:\Java\jdk1.6.0_16\jre\lib\resources.jar;D:\Java\jdk1.6.0_16\jre\lib\rt.jar;D:\Java\jdk1.6.0_16\jre\lib\sunrsasign.jar;D:\Java\jdk1.6.0_16\jre\lib\jsse.jar;D:\Java\jdk1.6.0_16\jre\lib\jce.jar;D:\Java\jdk1.6.0_16\jre\lib\charsets.jar;D:\Java\jdk1.6.0_16\jre\classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="maven.home" value="D:\apache-maven-3.0.4-bin\apache-maven-3.0.4"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase time="0.359" classname="org.konghao.poi.test.TestPoi" name="test01"/>
+  <testcase time="0.094" classname="org.konghao.poi.test.TestPoi" name="testObj2Xls"/>
+  <testcase time="0" classname="org.konghao.poi.test.TestPoi" name="testObj2Xls2"/>
+  <testcase time="0" classname="org.konghao.poi.test.TestPoi" name="testBeanutil"/>
+  <testcase time="0" classname="org.konghao.poi.test.TestPoi" name="testRe"/>
+  <testcase time="0.031" classname="org.konghao.poi.test.TestPoi" name="testRead01"/>
+  <testcase time="0.016" classname="org.konghao.poi.test.TestPoi" name="testRead02"/>
+</testsuite>
